@@ -3,7 +3,7 @@
 ## Germany
 
 Name  | Website | Hinweise
-------------- | -------------
+------------- | ------------- | -------------
 aboDeinauto | https://abodeinauto.de/
 Care by Volvo | https://www.volvocars.com/de/care-by-volvo/
 Carminga | https://carminga.com/
