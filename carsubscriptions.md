@@ -82,4 +82,4 @@ SIXT+ | https://www.sixt.ch/plus/
 UPTO | https://www.upto.ch/
 
 
-This page is provided by https://abofahren.de . Please contact me in case of errors or missing providers.
+*This page is provided by https://abofahren.de . Please contact me in case of errors or missing providers.<br><br>*
