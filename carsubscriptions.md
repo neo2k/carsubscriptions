@@ -67,7 +67,7 @@ Porsche Bank | https://www.porschebank.at
 vibe | https://vibemovesyou.com/
 ViveLaCar | https://www.vivelacar.at/
 
-## Schweiz
+## Switzerland
 
 Name  | Website | Hinweise
 ------------- | ------------- | -------------
