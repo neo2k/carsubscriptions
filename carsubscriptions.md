@@ -54,8 +54,15 @@ Access by BMW | https://www.golem.de/news/access-by-bmw-bmw-stellt-seinen-auto-a
 
 Name  | Website | Hinweise
 ------------- | ------------- | -------------
+Abo Drive | https://www.abo-drive.com/
+BMW Abo | https://www.bmw-abo.at/
+MINI Abo | https://www.mini-abo.at/
+Hyundai Abo | https://www.hyundai-abo.at/HYN_AT_DE/
+INSTADRIVE | https://insta-drive.com/at/
+ocay | https://ocay.at/
 Porsche Bank | https://www.porschebank.at
 vibe | https://vibemovesyou.com/
+ViveLaCar | https://www.vivelacar.at/
 
 ## Schweiz
 
