@@ -1,6 +1,6 @@
 # Car Subscription Provider
 
-*This page is provided by https://abofahren.de. In Case of errors or if you want your company to be added here, please contact me at info "aet" tb-solutions.biz.*
+*This page is provided by https://abofahren.de. In Case of errors or if you want your company to be added here, please add a pull request or contact me at info "aet" tb-solutions.biz.*
 
 
 ## Germany
