@@ -1,6 +1,7 @@
 # Car Subscription Provider
 
-If you want your company to be added here, please contact me at info "aet" tb-solutions.biz
+*This page is provided by https://abofahren.de. In Case of errors or if you want your company to be added here, please contact me at info "aet" tb-solutions.biz.*
+
 
 ## Germany
 
@@ -82,4 +83,3 @@ SIXT+ | https://www.sixt.ch/plus/
 UPTO | https://www.upto.ch/
 
 <br><br><br><br>
-*This page is provided by https://abofahren.de . Please contact me in case of errors or missing providers.*
