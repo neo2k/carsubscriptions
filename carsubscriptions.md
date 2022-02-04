@@ -1,6 +1,6 @@
 # Car Subscription Provider
 
-If you want your company to be added here, please contact me at into "aet" tb-solutions.biz
+If you want your company to be added here, please contact me at info "aet" tb-solutions.biz
 
 ## Germany
 
