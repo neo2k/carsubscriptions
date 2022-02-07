@@ -35,6 +35,7 @@ Mercedes-EQ Abo | https://www.mercedes-benz.de/passengercars/find-buy/abo-modell
 MHC Mobility | https://www.mhcmobility.de/
 MINI Subscribe | https://www.mini.de/de_DE/home/mini-subscribe.html
 nextmove | https://nextmove.de/neu-das-nextmove-e-auto-abo/
+Renault Abo | https://abo.renault.de/REN_DE_DE/
 PSA Retail | https://www.psa-abo.de/
 roadsurfer | https://roadsurfer.com | Only Camper
 sharetec | https://share-tec.de/
