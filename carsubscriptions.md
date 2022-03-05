@@ -14,7 +14,7 @@ Carminga | https://carminga.com/
 carship | https://carship.online/home
 Cluno | https://cluno.com
 Conqar | https://www.conqar.de/
-deisenroth auto abo | https://deisenroth-soehne.de/auto-abo-jetzt-guenstige-angebote-entdecken/
+deisenroth & soehne | https://www.dsmobility.de/
 dbb autoabo | https://www.dbb-vorteilswelt.de/auto/
 eazycars | https://eazycars.de/
 ECHT FLAT | https://echt-flat.de/
