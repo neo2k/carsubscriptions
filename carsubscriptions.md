@@ -38,7 +38,6 @@ nextmove | https://nextmove.de/neu-das-nextmove-e-auto-abo/
 Renault Abo | https://abo.renault.de/REN_DE_DE/
 PSA Retail | https://www.psa-abo.de/
 roadsurfer | https://roadsurfer.com | Only Camper
-sharetec | https://share-tec.de/
 Shell Recharge | https://www.shell-recharge-autoabo.de/
 SIXT+ | https://www.sixt.de/plus/
 smive | https://www.smive.de/
@@ -53,6 +52,7 @@ Name  | Hinweise
 maske | moved to MHC mobility
 allinonecars | 
 Access by BMW | https://www.golem.de/news/access-by-bmw-bmw-stellt-seinen-auto-abo-dienst-ein-2101-153447.html
+sharetec | 
 
 ## Austria
 
