@@ -8,6 +8,7 @@
 Name  | Website | Hinweise
 ------------- | ------------- | -------------
 aboDeinauto | https://abodeinauto.de/
+ALD | https://www.ald-online.de/
 Audi on demand | https://www.audi.de/de/brand/de/audi-welt/audi-on-demand.html
 Care by Volvo | https://www.volvocars.com/de/care-by-volvo/
 Carminga | https://carminga.com/
